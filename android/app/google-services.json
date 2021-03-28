@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167422985387",
+    "project_id": "bayaronlinebos",
+    "storage_bucket": "bayaronlinebos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167422985387:android:7a3d7875ab4bb6c93363ee",
+        "android_client_info": {
+          "package_name": "com.BayarOnlineBos.e_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167422985387-sn0ls7q7tke3920c62sf543oabkk5m6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5xYbY6UZLOYFmXIgG46gMbdKKjCsLh7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167422985387-sn0ls7q7tke3920c62sf543oabkk5m6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
